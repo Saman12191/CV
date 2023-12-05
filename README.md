@@ -1,3 +1,5 @@
+<!-- Hide this part on GitHub -->
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,6 +38,8 @@
     }
   </style>
 </head>
+-->
+
 <body>
 
   <header>
