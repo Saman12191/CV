@@ -110,7 +110,6 @@
       <li>Wireless Communication</li>
       <li>Optical Communication</li>
       <li>5G Radio Technologies and Beyond</li>
-      <li>Software Define Networking</li>
       <li>Digital Signal Processing</li>
       <li>Optimization</li>
       <li>Deep Learning</li>
