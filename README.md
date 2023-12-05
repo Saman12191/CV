@@ -39,7 +39,7 @@
 <body>
 
   <header>
-    <img src="your_picture_url.jpg" alt="Samaneh's Picture" width="150" height="150">
+    <img src="https://avatars.githubusercontent.com/u/86505056?s=400&u=7ed95a6cd66da2b4f83de572af7ff22597cd5c9e&v=4" alt="Samaneh's Picture" width="150" height="150">
     <div>
       <h1>Samaneh Bidabadi</h1>
       <p>Ph.D. in Electrical Engineering</p>
