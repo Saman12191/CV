@@ -85,10 +85,6 @@
     <h2>Publications</h2>
     <ul>
       <li>
-        <strong>Optimization of RIS-aided Communications from Electromagnetic and Information theory perspective: A Survey</strong><br>
-        Preparing to be submitted to IEEE Communications Surveys & Tutorials in December 2023.
-      </li>
-      <li>
         <strong>Lower Bound Optimization of Energy Efficiency for an OFDMA SISO RIS-enabled System</strong><br>
         Under review, IEEE Transactions on Wireless Communications, September 2023.
       </li>
