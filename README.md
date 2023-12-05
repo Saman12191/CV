@@ -70,7 +70,7 @@
       </li>
       <li>
         <strong>Isfahan University of Technology</strong><br>
-        Master of Science (MS), Communication Systems<br>
+        Master of Science (MS),Electrical Engineering-Communication Systems<br>
         2011 - 2014
       </li>
       <li>
